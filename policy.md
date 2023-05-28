@@ -1,4 +1,4 @@
-<h1>Privacy Policy for Cube Surfer</h1>
+<h1>Privacy Policy for Cube-Surfer2</h1>
 
 
 Privacy Policy
